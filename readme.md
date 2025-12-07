@@ -131,48 +131,6 @@ const devansh = {
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-</div>
-
-<div align="center">
-
-[![Buildacopilot](https://github-readme-stats.vercel.app/api/pin/?username=ai-engineer-devansh-singh&repo=buildacopilot&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6)](https://github.com/devanshsinghvaluecoders)
-
-</div>
-
-### 🤖 Buildacopilot - AI Agent Marketplace
-**Tech:** Next.js 16 | React 19 | OpenAI API | LangChain | Azure Blob
-
-Comprehensive AI-powered platform with Agent Builder, Copilot Hub, and Prompt Hub. Create, share, and monetize AI agents with document processing and MCP integration.
-- ✅ 90% optimization achieved
-- ✅ 50+ APIs integrated
-- ✅ MCP features implemented
-
----
-
-### 🍽️ Dine Pulse - AI-Powered Feedback Platform
-**Tech:** Next.js 16 | React 19 | MongoDB | GPT-4 | WhatsApp API
-
-SaaS platform enabling restaurants to collect actionable customer feedback in under 60 seconds through AI-powered conversational interfaces.
-- ✅ <60s feedback collection
-- ✅ Real-time analytics
-- ✅ WhatsApp integration
-
----
-
-### 📱 LocalLLMChat - On-Device AI Chat App
-**Tech:** React Native | TypeScript | llama.rn | ONNX | SQLite
-
-Privacy-focused Android app running LLMs locally for offline chats. Implements RAG pipeline with local embeddings and vector search.
-- ✅ 100% privacy guaranteed
-- ✅ Offline mode support
-- ✅ RAG-powered search
-
----
-
-<div align="center">
-
 ## 💼 Professional Experience
 
 </div>
