@@ -1,208 +1,338 @@
-# Devansh Singh - AI Engineer & Full Stack Developer
+<div align="center">
+  
+# 👋 Hi, I'm Devansh Singh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/iamdevanshsingh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ai-engineer-devansh-singh)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:devanshsingh.ireland@gmail.com)
+### 🚀 AI Engineer | Full Stack Developer | Open Source Contributor
 
-## 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+ML+Specialist;Full+Stack+Developer;Next.js+%26+React+Expert;Generative+AI+Innovator;Cloud+Architecture+Designer)](https://git.io/typing-svg)
 
-Full-stack software engineer with 4+ years of experience in React.js, Next.js, Node.js, and AI integration, delivering scalable solutions with 30%+ performance improvements. Expert in cloud-native systems and advanced Gen AI technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdevanshsingh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ai-engineer-devansh-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshsingh.ireland@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linkedin.com/in/iamdevanshsingh)
 
-**Location:** Dublin, Ireland 🇮🇪  
-**Visa Status:** Stamp 2 Visa  
-**Experience:** 4+ Years  
-**Clients Served:** 50+ Happy Clients
-
----
-
-## 🎯 Quick Stats
-
-- 🧠 **25+ AI Projects** delivered
-- 📅 **4+ Years** of professional experience
-- 🏆 **98% Success Rate** in project delivery
-- 💻 **50K+ Lines of Code** written
+</div>
 
 ---
 
-## 🎓 Education
+<div align="center">
 
-### MSc in Artificial Intelligence
-**National College of Ireland, Dublin**  
-*Sept 2025 - Sept 2026*
+## 🎯 About Me
 
-### M.Tech in Computer Science and Engineering
-**Dronacharya College of Engineering, Gurugram**  
-*Graduated: July 2023* | GPA: 3.1/4.0
+</div>
 
-### B.Tech in Computer Science and Information Technology
-**Dronacharya College of Engineering, Gurugram**  
-*Graduated: July 2021* | GPA: 2.9/4.0
-
----
-
-## 💼 Professional Experience
-
-### Consultant – Software Development
-**Deloitte USI** | *March 2025 – Sept 2025*
-
-- ✅ Contributed to **30% increase in user engagement** and **20% revenue growth** for D2C clients
-- ✅ Resolved critical Remix + React SSR hydration issues, ensuring SEO-safe delivery
-- ✅ Led technical SEO optimization resulting in **30%+ improvement in page speed**
-- ✅ Built and optimized features for in-house Gen AI platform, reducing token consumption by **20%**
-
-### Senior Software Engineer
-**MadvIT Solutions** | *June 2024 – Feb 2025*
-
-- ✅ Delivered diverse GenAI functionalities enhancing automation and efficiency
-- ✅ Resolved **30+ critical bugs** within tight deadlines
-- ✅ Supported **40% increase in user base** with scalable PHP/SQL solutions
-- ✅ Developed AI-powered PDF reader with **90% accuracy**
-
-### Associate Software Developer
-**ValueCoders** | *Jan 2021 – June 2024*
-
-- ✅ Reduced web page load times by **30%** and API calls by **15%**
-- ✅ Boosted web application speed by **25%** using Next.js SSR/SSG
-- ✅ Safeguarded user base of **50,000+** with JWT security
-- ✅ Leveraged OpenAI GPT models for chatbot and translation tools
+```typescript
+const devansh = {
+    location: "Dublin, Ireland 🇮🇪",
+    visaStatus: "Stamp 2 Visa",
+    currentRole: "AI Engineer & Full Stack Developer",
+    experience: "4+ Years",
+    education: "MSc in AI (Pursuing) | M.Tech CS | B.Tech CS",
+    
+    code: ["TypeScript", "JavaScript", "Python", "SQL", "HTML/CSS"],
+    
+    technologies: {
+        frontend: ["React", "Next.js", "Redux", "Tailwind", "Material-UI", "Remix"],
+        backend: ["Node.js", "Express", "NestJS", "GraphQL", "REST APIs"],
+        mobile: ["React Native", "Ionic", "Android", "iOS"],
+        ai: ["OpenAI GPT", "LangChain", "RAG", "NLP", "Prompt Engineering", "MCP"],
+        databases: ["MongoDB", "PostgreSQL", "SQL", "SQLite"],
+        cloud: ["AWS", "Azure", "Vercel", "Docker", "Heroku"],
+        tools: ["Git", "JIRA", "Confluence", "Jest", "CI/CD"]
+    },
+    
+    currentlyLearning: "Advanced AI Agent Development & Model Context Protocol",
+    openToWork: true,
+    funFact: "I can debug code faster than I can make coffee ☕"
+};
+```
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
 
-### Frontend Development
-React.js • Next.js • TypeScript • Redux • Material UI • Tailwind CSS • Remix • Shopify • JavaScript • HTML/CSS • jQuery • Bootstrap • Ionic • ES6 • SSR • SSG
+## 📊 GitHub Stats
 
-### Backend & Database
-Node.js • Express.js • NestJS • MongoDB • PostgreSQL • SQL • GraphQL • RabbitMQ • API Development • REST APIs • Microservices
+</div>
 
-### Mobile Development
-React Native • Ionic • Android • iOS • Cross-platform
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-engineer-devansh-singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6)
 
-### AI & NLP
-OpenAI GPT • LangChain • Chatbots • NLP • RAG • Prompt Engineering • Model Context Protocol • AI Integration • Machine Learning
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-engineer-devansh-singh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6)
 
-### Payment Solutions
-Stripe • PayPal • Payment Integration • Transaction Processing
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ai-engineer-devansh-singh&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
 
-### Cloud & DevOps
-AWS • Azure • Docker • Vercel • Heroku • Git • Bitbucket • CI/CD • JIRA • Confluence
-
-### Testing
-Jest • Unit Testing • Integration Testing • Test Automation
-
-### Software Engineering
-Microservices • Code Review • Agile • Scrum • System Design • Architecture • Continuous Learning
+</div>
 
 ---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
+
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### 🔧 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-### 🤖 Buildacopilot - AI Agent Marketplace & Platform
-**Tech Stack:** Next.js 16, React 19, OpenAI API, LangChain, Azure Blob
+</div>
 
-Comprehensive AI-powered platform with Agent Builder, Copilot Hub, and Prompt Hub. Enables users to create, share, and monetize AI agents with document processing and MCP integration.
+<div align="center">
 
-- 90% optimization achieved
-- 50+ APIs integrated
-- MCP features implemented
+[![Buildacopilot](https://github-readme-stats.vercel.app/api/pin/?username=ai-engineer-devansh-singh&repo=buildacopilot&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6)](https://github.com/devanshsinghvaluecoders)
 
-[View Project →](https://github.com/devanshsinghvaluecoders)
+</div>
+
+### 🤖 Buildacopilot - AI Agent Marketplace
+**Tech:** Next.js 16 | React 19 | OpenAI API | LangChain | Azure Blob
+
+Comprehensive AI-powered platform with Agent Builder, Copilot Hub, and Prompt Hub. Create, share, and monetize AI agents with document processing and MCP integration.
+- ✅ 90% optimization achieved
+- ✅ 50+ APIs integrated
+- ✅ MCP features implemented
+
+---
 
 ### 🍽️ Dine Pulse - AI-Powered Feedback Platform
-**Tech Stack:** Next.js 16, React 19, MongoDB, GPT-4, WhatsApp API
+**Tech:** Next.js 16 | React 19 | MongoDB | GPT-4 | WhatsApp API
 
-SaaS platform enabling restaurants to collect actionable customer feedback in under 60 seconds through AI-powered conversational interfaces. Integrates WhatsApp Business API and sentiment analysis.
+SaaS platform enabling restaurants to collect actionable customer feedback in under 60 seconds through AI-powered conversational interfaces.
+- ✅ <60s feedback collection
+- ✅ Real-time analytics
+- ✅ WhatsApp integration
 
-- <60s feedback collection
-- Real-time analytics
-- WhatsApp integration
-
-[View Project →](https://github.com/devanshsinghvaluecoders)
+---
 
 ### 📱 LocalLLMChat - On-Device AI Chat App
-**Tech Stack:** React Native, TypeScript, llama.rn, ONNX, SQLite
+**Tech:** React Native | TypeScript | llama.rn | ONNX | SQLite
 
-Privacy-focused Android app running LLMs locally for offline chats. Implements RAG pipeline with local embeddings and vector search for complete data sovereignty.
-
-- 100% privacy guaranteed
-- Offline mode support
-- RAG-powered search
-
-[View Project →](https://github.com/devanshsinghvaluecoders)
+Privacy-focused Android app running LLMs locally for offline chats. Implements RAG pipeline with local embeddings and vector search.
+- ✅ 100% privacy guaranteed
+- ✅ Offline mode support
+- ✅ RAG-powered search
 
 ---
 
-## 🏆 Achievements
+<div align="center">
 
-### 🌟 Open-Source AI Contributor
-Active contributor to generative AI projects and MCP servers, building intelligent agents
+## 💼 Professional Experience
 
-### 💼 Citi Upstart Developer
-Contributing to mobile and web applications with integrated AI solutions
+</div>
 
-### 📚 Published Researcher
-Authored blockchain research paper presented at ICSMDI 2023 conference
+### 🏢 Deloitte USI - Consultant, Software Development
+**March 2025 – Sept 2025**
+- 🎯 30% increase in user engagement & 20% revenue growth
+- 🚀 30%+ improvement in page speed through SEO optimization
+- 💡 20% reduction in token consumption for Gen AI platform
 
-### 💻 CODU Platform Contributor
-Contributing to open-source newsletter platform, advancing community collaboration
+### 🏢 MadvIT Solutions - Senior Software Engineer
+**June 2024 – Feb 2025**
+- 🔧 Resolved 30+ critical bugs within tight deadlines
+- 📈 40% increase in user base with scalable solutions
+- 🤖 90% accuracy AI-powered PDF reader
 
----
-
-## 💬 Professional Recommendations
-
-### Anish Adarkar - Digital Transformation Consultant, Deloitte
-> "I had the pleasure of working with Devansh on a digital transformation project where we built a Shopify solution for a D2C client. As a front-end developer, Devansh consistently gave his 100% and was always willing to step up to handle last-minute requests with a positive attitude. He also brought strong expertise as an AEM developer, contributing significantly to building a robust and user-friendly product display page for a commerce website. Devansh's dedication, technical skills, and collaborative approach made him a valuable member of the team, and I highly recommend him for any future opportunities."
-
-### Chandra Shekar Pavan Kumar - Specialist Leader, Deloitte
-> "Devansh is one of the Front end experts I have worked with. His in-depth React knowledge combined with exceptional problem-solving skills made him a key developer on the project. He optimised key aspects in our project like SEO, Performance, etc. It was a pleasure working with him."
-
-### Avneet Pandey - Software Developer, ValueCoders
-> "Devansh Singh brings a wealth of expertise in development and AI integration to the table. His proficiency in these areas played a pivotal role in driving our project forward. Devansh's collaborative approach and clear communication made him a valued member of our team, facilitating smooth coordination and problem-solving. I wholeheartedly endorse Devansh for his technical prowess and teamwork."
-
-### Apoorva Singh - Systems Integration Specialist, NTT Data
-> "I have worked with Devansh and his technical skills are fantastic. He never hesitates to take up any task and also he is a very good team player."
+### 🏢 ValueCoders - Associate Software Developer
+**Jan 2021 – June 2024**
+- ⚡ 30% reduction in page load times
+- 🚀 25% speed boost using Next.js SSR/SSG
+- 🔒 Secured 50,000+ users with JWT implementation
 
 ---
 
-## 📞 Contact Information
+<div align="center">
 
-- 📧 Email: [devanshsingh.ireland@gmail.com](mailto:devanshsingh.ireland@gmail.com)
-- 📱 Phone: [+353 870346099](tel:+353870346099)
-- 💼 LinkedIn: [linkedin.com/in/iamdevanshsingh](https://linkedin.com/in/iamdevanshsingh)
-- 🐙 GitHub: [github.com/ai-engineer-devansh-singh](https://github.com/ai-engineer-devansh-singh)
-- 📍 Location: Dublin, Ireland
+## 🏆 Achievements & Stats
 
----
+</div>
 
-## 🎨 Portfolio Features
+<div align="center">
 
-This resume is part of an interactive portfolio website built with:
-- ⚛️ React 19 with TypeScript
-- 🎨 Tailwind CSS for modern, responsive design
-- ✨ Glassmorphism UI with backdrop blur effects
-- 🌊 Parallax scrolling and smooth animations
-- 📱 Mobile-first responsive design
-- 🎭 Dynamic particle effects and floating orbs
-- 🔥 Holographic text effects and gradient animations
+| 🎯 Metric | 📊 Value |
+|-----------|----------|
+| 🧠 AI Projects | 25+ |
+| 📅 Experience | 4+ Years |
+| 🏆 Success Rate | 98% |
+| 💻 Lines of Code | 50K+ |
+| 👥 Clients Served | 50+ |
+| 🐛 Bugs Fixed | 200+ |
+
+</div>
 
 ---
 
-## 💡 What I Offer
+<div align="center">
 
-✅ **Generative AI & LLMs** - Building intelligent solutions with cutting-edge AI  
-✅ **Full Stack Architecture** - End-to-end application development  
-✅ **Cloud-Native Systems** - Scalable, performant cloud solutions  
-✅ **Performance Optimization** - 30%+ improvements in speed and efficiency
+## 🎓 Education
 
----
+</div>
 
-## 🌟 Status
-
-🟢 **Available for hire** | Response within 24 hours ⚡
+🎓 **MSc in Artificial Intelligence** - National College of Ireland, Dublin *(2025-2026)*  
+🎓 **M.Tech in Computer Science** - Dronacharya College of Engineering *(2023)* | GPA: 3.1/4.0  
+🎓 **B.Tech in CS & IT** - Dronacharya College of Engineering *(2021)* | GPA: 2.9/4.0
 
 ---
 
-*Built with passion, powered by innovation* ✨
+<div align="center">
 
-© 2025 Devansh Singh. All rights reserved.
+## 🌟 Highlights
+
+</div>
+
+```diff
++ 🌟 Open-Source AI Contributor - Building intelligent agents & MCP servers
++ 💼 Citi Upstart Developer - Mobile & web applications with AI solutions
++ 📚 Published Researcher - Blockchain paper at ICSMDI 2023 conference
++ 💻 CODU Platform Contributor - Open-source newsletter platform
+```
+
+---
+
+<div align="center">
+
+## 📈 Activity Graph
+
+</div>
+
+<div align="center">
+  
+[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ai-engineer-devansh-singh&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏅 GitHub Trophies
+
+</div>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ai-engineer-devansh-singh&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 What I'm Working On
+
+</div>
+
+- 🔭 Currently building **AI Agent Platforms** and **Generative AI Solutions**
+- 🌱 Learning **Advanced AI Agent Development** and **Model Context Protocol**
+- 👯 Looking to collaborate on **AI/ML Projects** and **Open Source**
+- 💬 Ask me about **React, Next.js, AI Integration, Full Stack Development**
+- ⚡ Fun fact: **I turn coffee into code ☕ → 💻**
+
+---
+
+<div align="center">
+
+## 📫 How to Reach Me
+
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-devanshsingh.ireland%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshsingh.ireland@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B353%20870346099-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+353870346099)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamdevanshsingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdevanshsingh)
+[![GitHub](https://img.shields.io/badge/GitHub-ai--engineer--devansh--singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ai-engineer-devansh-singh)
+
+📍 **Location:** Dublin, Ireland 🇮🇪  
+💼 **Status:** Open to opportunities | Response within 24 hours ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+## 💖 Support My Work
+
+</div>
+
+<div align="center">
+
+If you like my projects, consider giving them a ⭐️!
+
+[![GitHub followers](https://img.shields.io/github/followers/ai-engineer-devansh-singh?label=Follow&style=social)](https://github.com/ai-engineer-devansh-singh)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Building the future, one algorithm at a time"* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=ai-engineer-devansh-singh&color=blueviolet&style=for-the-badge)
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**© 2025 Devansh Singh | Built with 💜 and passion for innovation**
+
+</div>
